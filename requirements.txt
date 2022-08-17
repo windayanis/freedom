@@ -1,2 +1,2 @@
-st_lottie-dev
-option_menu-dev
+streamlit_lottie
+streamlit_option_menu
