@@ -1,4 +1,2 @@
-apt-get dependencies 
-
 streamlit_lottie-dev
 streamlit_option_menu-dev
